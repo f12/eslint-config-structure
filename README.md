@@ -2,7 +2,7 @@
 
 structure eslint config, which itself extends eslint:recommended
 
-## Usage
+## Usage
 
 Install module
 ```
