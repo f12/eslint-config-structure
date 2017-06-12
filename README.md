@@ -6,7 +6,7 @@ structure eslint config, which itself extends eslint:recommended
 
 Install module
 ```
-npm install eslint-config-structure
+npm install --save-dev eslint-config-structure
 ```
 
 Create a `.eslintrc` that extends this config
