@@ -5,7 +5,8 @@ module.exports = {
     'mocha': true
   },
   'globals': {
-    'expect': false
+    'expect': false,
+    'sinon': false
   },
   'parserOptions': {
     'sourceType': 'module',
