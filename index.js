@@ -87,7 +87,6 @@ module.exports = {
     'space-before-blocks': 2,
     'object-curly-spacing': [2, 'never'],
     'array-bracket-spacing': [2, 'never'],
-    'space-infix-ops': 2,
     'space-unary-ops': 2,
     'spaced-comment': 2,
     'template-curly-spacing': [2, 'never']
