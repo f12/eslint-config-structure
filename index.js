@@ -69,6 +69,7 @@ module.exports = {
     'brace-style': 2,
     'comma-spacing': 2,
     'comma-style': 2,
+    "curly": 2,
     'key-spacing': [2, {
       'beforeColon': false,
       'afterColon': true
