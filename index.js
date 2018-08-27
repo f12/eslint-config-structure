@@ -73,6 +73,7 @@ module.exports = {
       'beforeColon': false,
       'afterColon': true
     }],
+    'keyword-spacing': 2,
     'new-parens': 2,
     'no-array-constructor': 2,
     'no-lonely-if': 2,
