@@ -33,7 +33,6 @@ module.exports = {
     'no-floating-decimal': 2,
     'no-labels': 2,
     'no-lone-blocks': 2,
-    'no-loop-func': 2,
     'no-multi-str': 2,
     'no-native-reassign': 2,
     'no-new': 2,

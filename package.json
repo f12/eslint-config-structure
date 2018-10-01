@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-structure",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Base eslint config for structure",
   "main": "index.js",
   "scripts": {
