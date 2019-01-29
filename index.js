@@ -81,7 +81,7 @@ module.exports = {
     'no-new-object': 2,
     'no-spaced-func': 2,
     'no-trailing-spaces': 2,
-    'no-multiple-empty-lines': 2,
+    'no-multiple-empty-lines': [2, { "max": 1}],
     'operator-assignment': [2, 'always'],
     'quote-props': [2, 'consistent'],
     'semi': [2, 'never'],
